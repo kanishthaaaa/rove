@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1010857677111",
+    "firebase_url": "https://rovemaillogin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rovemaillogin",
+    "storage_bucket": "rovemaillogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010857677111:android:9ce0c8a330d9a833140ab2",
+        "android_client_info": {
+          "package_name": "com.example.rove_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiVMYkCPK9zaloTkQ2q9IS2xthmzJFZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
